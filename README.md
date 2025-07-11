@@ -1,5 +1,6 @@
 ## Hola, me llamo Cristian 👋
  Estudio la carrera de Ingenieria Informatica 🎓
+ 
  No dejes para mañana lo que puedes hacer hoy 🗿
 <!--
 **cristian6160/cristian6160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
